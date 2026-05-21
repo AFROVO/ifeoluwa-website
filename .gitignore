@@ -1,0 +1,16 @@
+# Exclude video files — too large for GitHub
+*.MP4
+*.MOV
+*.mp4
+*.mov
+
+# Node / serve cache
+node_modules/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude internal
+.claude/
