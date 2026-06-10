@@ -1,0 +1,155 @@
+{
+  "source_audio": "Afrovo_SaveMoney_VO.mp3",
+  "duration_sec": 84.92,
+  "scene_count": 16,
+  "transcription": {
+    "engine": "pocketsphinx 5.x (offline CMU acoustic model)",
+    "note": "Timestamps are derived from speech timing and are reliable. 'text_raw_asr' is the verbatim offline-recognizer output (lower accuracy). 'text' is a best-effort human-readable reconstruction and SHOULD be proofread against the real script before production use."
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0.03,
+      "end": 4.28,
+      "duration": 4.25,
+      "timecode": "00:00.03 - 00:04.28",
+      "text": "If you still convert every dollar back to your home currency before you spend it — stop.",
+      "text_raw_asr": "if you still can vote every dollar back to home currency before you spend it stop"
+    },
+    {
+      "scene": 2,
+      "start": 4.98,
+      "end": 11.24,
+      "duration": 6.26,
+      "timecode": "00:04.98 - 00:11.24",
+      "text": "That habit isn't saving you money, it's stressing you out. Because in Australia it's not the big bills that drain your account, it's the",
+      "text_raw_asr": "that happened isn't saving you money it's stressing you out because in australia it's not the big bills the train your account is the"
+    },
+    {
+      "scene": 3,
+      "start": 11.25,
+      "end": 17.75,
+      "duration": 6.5,
+      "timecode": "00:11.25 - 00:17.75",
+      "text": "small, quiet ones you never see coming. So here are ten ways international students quietly save hundreds. Stay with me and let me",
+      "text_raw_asr": "small quiet ones you never see coming so here are ten ways international students quietly save hundreds stay with me and let me"
+    },
+    {
+      "scene": 4,
+      "start": 17.76,
+      "end": 18.94,
+      "duration": 1.18,
+      "timecode": "00:17.76 - 00:18.94",
+      "text": "show you what you need to do.",
+      "text_raw_asr": "show you what you need to do"
+    },
+    {
+      "scene": 5,
+      "start": 19.64,
+      "end": 25.88,
+      "duration": 6.24,
+      "timecode": "00:19.64 - 00:25.88",
+      "text": "One: stop thinking in your home currency. Convert once, when the money lands, set it inside a weekly or monthly budget, and stop",
+      "text_raw_asr": "want but indoor was not in your home currency can vote once when the money landfill inside the weekly or the budget and start"
+    },
+    {
+      "scene": 6,
+      "start": 25.89,
+      "end": 32.19,
+      "duration": 6.3,
+      "timecode": "00:25.89 - 00:32.19",
+      "text": "second-guessing every purchase. Two: turn groceries into a system. Buy your staples, hit fresh markets in the last hour when",
+      "text_raw_asr": "second guessing every purchase to turn groceries into a system i'll be for staples fresh markets in the last hour when"
+    },
+    {
+      "scene": 7,
+      "start": 32.2,
+      "end": 34.73,
+      "duration": 2.53,
+      "timecode": "00:32.20 - 00:34.73",
+      "text": "prices get slashed, and batch-cook on Sundays.",
+      "text_raw_asr": "prices get slashed and back to cook on sundays"
+    },
+    {
+      "scene": 8,
+      "start": 35.28,
+      "end": 37.64,
+      "duration": 2.36,
+      "timecode": "00:35.28 - 00:37.64",
+      "text": "That one move can be worth three days of takeaway.",
+      "text_raw_asr": "but aren't we go full be three days of takeaway"
+    },
+    {
+      "scene": 9,
+      "start": 38.26,
+      "end": 44.41,
+      "duration": 6.15,
+      "timecode": "00:38.26 - 00:44.41",
+      "text": "Three: stack your student status. You need a student card and make",
+      "text_raw_asr": "three stack your student status you need days student beans and i say card and make"
+    },
+    {
+      "scene": 10,
+      "start": 44.7,
+      "end": 50.97,
+      "duration": 6.27,
+      "timecode": "00:44.70 - 00:50.97",
+      "text": "sure it earns you discounts — software, gym, transport, retail.",
+      "text_raw_asr": "is there is to comprise a reflex software gym transport retail for"
+    },
+    {
+      "scene": 11,
+      "start": 51.32,
+      "end": 57.4,
+      "duration": 6.08,
+      "timecode": "00:51.32 - 00:57.40",
+      "text": "Four: buy second-hand on purpose. Every end of semester students leave and dump furniture, bikes and textbooks for next to nothing.",
+      "text_raw_asr": "my second hand on purpose every end of semester students leave and don't furniture bikes and text books for next to nothing"
+    },
+    {
+      "scene": 12,
+      "start": 57.96,
+      "end": 64.2,
+      "duration": 6.24,
+      "timecode": "00:57.96 - 01:04.20",
+      "text": "Be the buyer, not the panic-seller. Five: switch to a prepaid mobile network. These providers run on the",
+      "text_raw_asr": "be the buyer not to panic sell or five switch to prepaid mobile network that she providers run on the"
+    },
+    {
+      "scene": 13,
+      "start": 64.21,
+      "end": 68.36,
+      "duration": 4.15,
+      "timecode": "01:04.21 - 01:08.36",
+      "text": "same towers as the big telcos — same signal, lower bill, no contract.",
+      "text_raw_asr": "same powers as the big toe goes same signal cost the bill no contract"
+    },
+    {
+      "scene": 14,
+      "start": 69.15,
+      "end": 75.53,
+      "duration": 6.38,
+      "timecode": "01:09.15 - 01:15.53",
+      "text": "Those five alone can save you hundreds. From point six to ten, that's where the real money is: banking fees, energy bills, money transfers,",
+      "text_raw_asr": "those five alone can save you hundreds the point six to ten that's what the real money is banking fees energy bills money transfers to"
+    },
+    {
+      "scene": 15,
+      "start": 75.54,
+      "end": 81.99,
+      "duration": 6.45,
+      "timecode": "01:15.54 - 01:21.99",
+      "text": "help to cover... and the tax refund most students never claim. I've put all ten in a free guide. Convert toward money, and also industry to",
+      "text_raw_asr": "help cover and the tax refund most students never claimed i've put all ten in a free guide common toward money and also industry to"
+    },
+    {
+      "scene": 16,
+      "start": 82.0,
+      "end": 84.7,
+      "duration": 2.7,
+      "timecode": "01:22.00 - 01:24.70",
+      "text": "you. Your journey, our mission. Follow Afrovo for more.",
+      "text_raw_asr": "you your journey our mission follow fruitful for more"
+    }
+  ]
+}
